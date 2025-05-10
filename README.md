@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandani</h1>
 <h3 align="center">I'm a Higher Secondary student passionate about learning web development! Currently exploring HTML, CSS, JavaScript, and working on small projects to build my skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandani7275&label=Profile%20views&color=0e75b6&style=flat" alt="chandani7275" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandani7275&label=Profile%20views&color=0e75b6&style=flat" alt="chandani7275 khsuhi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandani7275" alt="chandani7275" /></a> </p>
 
